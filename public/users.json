@@ -1,0 +1,23 @@
+[
+    {"id": 1, "firstName": "John", "lastName": "Doe", "gender": "Male", "email": "john.doe@example.com", "username": "johndoe", "domain": "example.com", "ip": "192.168.1.1", "university": "Example University"},
+    {"id": 2, "firstName": "Alice", "lastName": "Smith", "gender": "Female", "email": "alice.smith@example.com", "username": "alicesmith", "domain": "example.com", "ip": "192.168.1.2", "university": "Another University"},
+    {"id": 3, "firstName": "Bob", "lastName": "Johnson", "gender": "Male", "email": "bob.johnson@example.com", "username": "bobjohnson", "domain": "example.com", "ip": "192.168.1.3", "university": "Yet Another University"},
+    {"id": 4, "firstName": "Eva", "lastName": "Davis", "gender": "Female", "email": "eva.davis@example.com", "username": "evadavis", "domain": "example.com", "ip": "192.168.1.4", "university": "Sample University"},
+    {"id": 5, "firstName": "Michael", "lastName": "Brown", "gender": "Male", "email": "michael.brown@example.com", "username": "michaelbrown", "domain": "example.com", "ip": "192.168.1.5", "university": "Test University"},
+    {"id": 6, "firstName": "Emma", "lastName": "Johnson", "gender": "Female", "email": "emma.johnson@example.com", "username": "emmajohnson", "domain": "example.com", "ip": "192.168.1.6", "university": "University of Example"},
+    {"id": 7, "firstName": "David", "lastName": "Lee", "gender": "Male", "email": "david.lee@example.com", "username": "davidlee", "domain": "example.com", "ip": "192.168.1.7", "university": "Example College"},
+    {"id": 8, "firstName": "Olivia", "lastName": "Martin", "gender": "Female", "email": "olivia.martin@example.com", "username": "oliviamartin", "domain": "example.com", "ip": "192.168.1.8", "university": "Another College"},
+    {"id": 9, "firstName": "William", "lastName": "Thompson", "gender": "Male", "email": "william.thompson@example.com", "username": "williamthompson", "domain": "example.com", "ip": "192.168.1.9", "university": "Yet Another College"},
+    {"id": 10, "firstName": "Sophia", "lastName": "Hill", "gender": "Female", "email": "sophia.hill@example.com", "username": "sophiahill", "domain": "example.com", "ip": "192.168.1.10", "university": "Sample Institute"},
+    {"id": 11, "firstName": "James", "lastName": "Young", "gender": "Male", "email": "james.young@example.com", "username": "jamesyoung", "domain": "example.com", "ip": "192.168.1.11", "university": "Test Institute"},
+    {"id": 12, "firstName": "Ava", "lastName": "Baker", "gender": "Female", "email": "ava.baker@example.com", "username": "avabaker", "domain": "example.com", "ip": "192.168.1.12", "university": "University of Sample"},
+    {"id": 13, "firstName": "Benjamin", "lastName": "Anderson", "gender": "Male", "email": "benjamin.anderson@example.com", "username": "benjaminanderson", "domain": "example.com", "ip": "192.168.1.13", "university": "Sample University"},
+    {"id": 14, "firstName": "Mia", "lastName": "Hall", "gender": "Female", "email": "mia.hall@example.com", "username": "miahall", "domain": "example.com", "ip": "192.168.1.14", "university": "Example College"},
+    {"id": 15, "firstName": "Alexander", "lastName": "Perry", "gender": "Male", "email": "alexander.perry@example.com", "username": "alexanderperry", "domain": "example.com", "ip": "192.168.1.15", "university": "Another College"},
+    {"id": 16, "firstName": "Charlotte", "lastName": "Butler", "gender": "Female", "email": "charlotte.butler@example.com", "username": "charlottebutler", "domain": "example.com", "ip": "192.168.1.16", "university": "Yet Another College"},
+    {"id": 17, "firstName": "Liam", "lastName": "Russell", "gender": "Male", "email": "liam.russell@example.com", "username": "liamrussell", "domain": "example.com", "ip": "192.168.1.17", "university": "Sample Institute"},
+    {"id": 18, "firstName": "Amelia", "lastName": "Fisher", "gender": "Female", "email": "amelia.fisher@example.com", "username": "ameliafisher", "domain": "example.com", "ip": "192.168.1.18", "university": "Test Institute"},
+    {"id": 19, "firstName": "Lucas", "lastName": "Ward", "gender": "Male", "email": "lucas.ward@example.com", "username": "lucasward", "domain": "example.com", "ip": "192.168.1.19", "university": "University of Sample"},
+    {"id": 20, "firstName": "Ella", "lastName": "Barnes", "gender": "Female", "email": "ella.barnes@example.com", "username": "ellabarnes", "domain": "example.com", "ip": "192.168.1.20", "university": "Sample University"}
+  ]
+  
